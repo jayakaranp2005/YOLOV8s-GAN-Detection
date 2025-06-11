@@ -3,7 +3,7 @@
 
 Detection of whether an image is real or GAN-generated using YOLOv8s.
 
-This project demonstrates training and testing a YOLOv8s model to classify faces as "real" or "fake" (GAN-generated). The dataset preparation, training, and inference steps are managed in a single Jupyter notebook (`YOLO_1.ipynb`). Below is a step-by-step breakdown of each cell in the notebook.
+This project demonstrates training and testing a YOLOv8s model to classify faces as "real" or "fake" (GAN-generated). The dataset preparation, training, and inference steps are managed in a single Jupyter notebook (`YOLO_1.ipynb`) in Google Colab. Below is a step-by-step breakdown of each cell in the notebook.
 
 ---
 
