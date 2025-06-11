@@ -176,6 +176,7 @@ uploaded_image = files.upload()
 - **Classes:** Two classes: `real` (1), `fake` (0).
 - **Prediction Results:** Saved in `/content/runs/detect/predict`.
 - **Customization:** Adjust epochs, batch size, or paths as needed for your experiments.
+- The trained model is also present in other "pretrainedmodel" folder
 
 ---
 
